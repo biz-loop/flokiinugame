@@ -1354,6 +1354,9 @@ span {
     transform: scale(1);
   }
 }
+.flipdown {
+  cursor: pointer;
+}
 
 .example {
   font-family: 'Roboto', sans-serif;
